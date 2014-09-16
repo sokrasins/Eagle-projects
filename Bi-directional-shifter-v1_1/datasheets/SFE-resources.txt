@@ -1,0 +1,2 @@
+SFE hookup guide:
+https://learn.sparkfun.com/tutorials/lsm9ds0-hookup-guide
